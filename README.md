@@ -1,3 +1,6 @@
+![PHP](https://img.shields.io/badge/PHP-8.3-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
+![PHPUnit](https://img.shields.io/badge/Tests-PHPUnit-success)
 # ⚽ Projet FC26 – Application PHP / MongoDB
 
 ## 📌 Présentation du projet
@@ -108,7 +111,7 @@ Les collections sont donc **liées entre elles**, conformément aux exigences du
 ## 1️⃣ Cloner le projet
 
 ```bash
-git clone <https://github.com/sdevanne/Projet_EA_FC26.git>
+git clone https://github.com/sdevanne/Projet_EA_FC26.git
 cd Projet_EA_FC26
 ```
 
@@ -210,7 +213,7 @@ Ou :
 
 Résultat attendu :
 
-OK (7 tests, XX assertions)
+OK (7 tests, 24 assertions)
 
 Les tests utilisent une base séparée :
 
@@ -251,7 +254,7 @@ public/
 src/
 scripts/
 tests/
-vendor/
+data/
 composer.json
 phpunit.xml
 README.md
