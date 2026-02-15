@@ -108,7 +108,7 @@ Les collections sont donc **liées entre elles**, conformément aux exigences du
 ## 1️⃣ Cloner le projet
 
 ```bash
-git clone <URL_DU_REPO>
+git clone <https://github.com/sdevanne/Projet_EA_FC26.git>
 cd Projet_EA_FC26
 ```
 
