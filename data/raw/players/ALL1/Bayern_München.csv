@@ -1,0 +1,35 @@
+﻿player_name,team_name,positions,overall,age,pac,sho,pas,dri,def,phy,height_cm,preferred_foot,contract_start,contract_end,market_value
+"Joshua Kimmich,Bayern München,""CDM RB CM"",89,30,73,75,87,85,82,69,177,Right,2015-07-01,2029-06-01,102000000"
+Harry Kane,Bayern München,ST,89,31,64,92,81,82,83,86,188,Right,2023-08-12,2027-06-01,103000000
+"Jamal Musiala,Bayern München,""CAM LM CM ST"",88,22,80,79,76,90,68,61,186,Right,2020-06-03,2030-06-01,157500000"
+"Michael Olise,Bayern München,""RM RW CAM"",88,23,79,79,84,88,69,62,180,Left,2024-07-07,2029-06-01,140000000"
+Jonathan Tah,Bayern München,CB,87,29,62,41,51,64,85,91,195,Right,2025-06-09,2029-06-01,78500000
+"Luis Díaz,Bayern München,""LM LW ST"",86,28,84,78,75,85,77,69,180,Right,2025-07-30,2029-06-01,81000000"
+Dayot Upamecano,Bayern München,CB,86,26,77,44,55,74,83,87,186,Right,2021-07-05,2026-06-01,87500000
+"Alphonso Davies,Bayern München,""LB LM"",84,24,94,65,72,84,80,75,185,Left,2019-01-01,2030-06-01,63000000"
+"Konrad Laimer,Bayern München,""RB CDM LB RM"",83,28,82,66,72,78,80,69,180,Right,2023-07-01,2027-06-01,39000000"
+"Serge Gnabry,Bayern München,""CAM LM CM"",83,29,80,81,76,84,65,68,176,Right,2017-07-01,2026-06-01,42000000"
+Manuel Neuer,Bayern München,GK,83,39,32,28,39,52,56,80,193,Right,2011-07-01,2026-06-01,4800000
+Kim Min Jae,Bayern München,CB,82,28,73,36,49,67,83,85,190,Right,2023-07-18,2028-06-01,31000000
+"Aleksandar Pavlović,Bayern München,""CDM CM"",81,21,63,62,78,78,73,75,188,Right,2023-05-06,2029-06-01,45000000"
+"Leon Goretzka,Bayern München,""CDM CM CB"",81,30,75,76,77,78,80,84,189,Right,2018-07-01,2026-06-01,25500000"
+Alexander Nübel,Bayern München,GK,80,28,48,23,37,51,52,74,193,Right,2020-07-01,2026-06-30,20000000
+"Raphaël Guerreiro,Bayern München,""LB CM RB LM"",80,31,70,75,83,87,54,49,170,Left,2023-07-01,2026-06-01,18000000"
+Nicolas Jackson,Bayern München,ST,79,24,82,75,66,77,79,77,187,Right,2023-07-01,2026-06-30,28500000
+"Tom Bischof,Bayern München,""CM CDM CAM"",78,20,59,65,79,81,67,61,180,Left,2025-06-09,2029-06-01,36000000"
+"Josip Stanišić,Bayern München,""CB RB LB RM"",78,25,73,42,59,69,76,75,187,Right,2021-04-10,2029-06-01,20500000"
+"Hiroki Ito,Bayern München,""CB LB"",78,26,74,56,65,73,73,77,188,Left,2024-07-01,2028-06-01,20500000"
+"Sacha Boey,Bayern München,""RB CM"",77,24,72,56,62,76,78,75,178,Right,2024-01-28,2028-06-01,15000000"
+Jonas Urbig,Bayern München,GK,75,21,32,19,23,33,39,51,189,Right,2025-01-27,2029-06-01,13000000
+Sven Ulreich,Bayern München,GK,73,36,41,19,25,38,44,63,192,Right,2021-07-01,2026-06-01,90000
+"Lennart Karl,Bayern München,""CAM RM CM"",73,17,73,68,66,78,43,37,168,Left,2025-04-04,2028-06-01,8000000"
+"Armindo Sieb,Bayern München,""ST CAM"",71,22,83,68,53,75,67,70,175,Right,2024-07-01,2026-06-30,5000000"
+"Arijon Ibrahimović,Bayern München,""LM RM LW"",70,19,72,66,67,70,55,47,176,Right,2022-01-07,2026-06-30,4100000"
+"Vincent Manuba,Bayern München,""RB LB"",61,20,69,41,48,56,62,64,183,Right,2025-12-21,2026-06-01,900000"
+"Wisdom Mike,Bayern München,""LM LW"",61,16,72,57,57,63,45,43,175,Left,2025-02-07,2027-06-01,1200000"
+"Felipe Chávez,Bayern München,""CM CAM CDM"",60,18,62,49,56,60,54,49,177,Left,2025-12-21,2026-06-30,725000"
+Deniz Ofli,Bayern München,LB,60,18,65,41,46,56,57,51,181,Left,2025-12-21,2028-06-01,775000
+"Santos Daiber,Bayern München,""CDM CM"",59,18,61,49,55,60,46,33,179,Right,2025-07-01,2027-06-01,700000"
+Jannis Bärtl,Bayern München,GK,58,19,33,15,22,31,33,44,185,Right,2025-08-30,2027-06-01,500000
+Cassiano Kiala,Bayern München,CB,58,16,63,30,37,49,45,34,186,Right,2025-07-01,2027-06-01,725000
+Leon Klanac,Bayern München,GK,56,18,28,14,18,27,35,46,185,Right,2025-01-01,2027-06-01,375000

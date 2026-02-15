@@ -1,0 +1,35 @@
+﻿player_name,team_name,positions,overall,age,pac,sho,pas,dri,def,phy,height_cm,preferred_foot,contract_start,contract_end,market_value
+"Angelo Stiller,VfB Stuttgart,""CDM CM"",83,24,58,58,79,83,73,67,183,Left,2023-08-25,2028-06-01,56000000"
+"Maximilian Mittelstädt,VfB Stuttgart,""LB LM"",82,28,81,62,73,77,76,67,180,Left,2023-07-01,2028-06-01,32500000"
+"Deniz Undav,VfB Stuttgart,""ST CAM"",81,28,66,81,73,81,78,80,179,Right,2024-08-09,2027-06-01,31000000"
+Julian Chabot,VfB Stuttgart,CB,80,27,46,40,45,54,82,91,195,Left,2024-07-01,2028-06-01,23000000
+Ermedin Demirović,VfB Stuttgart,ST,80,27,72,78,70,76,79,77,185,Right,2024-07-16,2028-06-01,27000000
+Alexander Nübel,VfB Stuttgart,GK,80,28,48,23,37,51,52,74,193,Right,2020-07-01,2026-06-30,20000000
+"Bilal El Khannouss,VfB Stuttgart,""CAM LM CM"",78,21,79,63,75,82,56,56,180,Right,2024-08-29,2026-06-30,26500000"
+"Jamie Leweling,VfB Stuttgart,""RM LM CAM RW"",77,24,83,70,62,77,74,76,185,Right,2024-05-19,2029-06-01,17000000"
+"Lorenz Assignon,VfB Stuttgart,""RB RM CM"",76,25,76,53,60,72,74,70,181,Right,2025-07-01,2029-06-01,11500000"
+"Tiago Tomás,VfB Stuttgart,""LM ST RM LW"",76,23,86,72,64,77,72,66,180,Right,2025-08-16,2029-06-01,14000000"
+"Chris Führich,VfB Stuttgart,""LM LW CAM"",76,27,84,67,70,80,62,49,181,Right,2021-07-19,2028-06-01,9500000"
+"Atakan Karazor,VfB Stuttgart,""CDM CM"",76,28,44,35,55,65,74,69,191,Right,2019-07-01,2028-06-01,8000000"
+"Badredine Bouanani,VfB Stuttgart,""RM RW CAM"",75,20,71,66,73,75,57,59,177,Left,2025-09-01,2030-06-01,13000000"
+"Josha Vagnoman,VfB Stuttgart,""RB RM"",75,24,87,57,64,71,80,84,190,Right,2022-07-09,2026-06-01,8500000"
+Dan-Axel Zagadou,VfB Stuttgart,CB,75,26,45,34,51,51,81,92,196,Left,2022-09-19,2026-06-01,7000000
+Finn Jeltsch,VfB Stuttgart,CB,73,18,68,40,51,65,73,76,187,Right,2025-02-03,2030-06-01,8000000
+"Ramon Hendriks,VfB Stuttgart,""CB LB CDM"",73,23,80,35,52,64,74,76,189,Left,2024-07-01,2028-06-01,5000000"
+Ameen Al Dakhil,VfB Stuttgart,CB,72,23,69,27,42,64,75,76,188,Right,2024-08-27,2028-06-01,5000000
+Luca Jaquez,VfB Stuttgart,CB,71,22,64,42,46,63,70,79,187,Right,2025-02-03,2029-06-01,4600000
+"Yannik Keitel,VfB Stuttgart,""CDM CM CB"",71,25,63,48,58,66,74,73,186,Right,2024-07-01,2026-06-30,2600000"
+"Leonidas Stergiou,VfB Stuttgart,""RB CB RM"",71,23,78,43,53,69,76,77,180,Right,2024-05-15,2026-06-30,4200000"
+"Nikolas Nartey,VfB Stuttgart,""CM CAM LB CDM"",71,25,68,52,62,74,69,75,187,Left,2019-08-29,2026-06-01,2900000"
+Fabian Bredlow,VfB Stuttgart,GK,71,30,39,19,18,40,40,62,190,Left,2019-07-01,2027-06-01,1500000
+"Chema Andrés,VfB Stuttgart,""CDM CM"",70,20,58,46,59,65,69,69,190,Right,2025-07-27,2030-06-01,4300000"
+"Pascal Stenzel,VfB Stuttgart,""RB CB RM"",69,29,53,57,68,65,69,67,183,Right,2020-07-01,2026-06-01,1400000"
+"Jeremy,VfB Stuttgart,""ST CAM"",66,20,74,67,50,64,61,65,182,Left,2026-01-02,2031-06-01,2700000"
+Jovan Milošević,VfB Stuttgart,ST,66,19,55,65,51,59,67,76,190,Right,2023-07-01,2026-06-30,2200000
+"Justin Diehl,VfB Stuttgart,""LM CAM RM LW"",66,20,89,63,54,69,50,39,174,Right,2024-07-01,2029-06-01,2400000"
+Stefan Drljača,VfB Stuttgart,GK,66,26,33,14,20,33,50,78,193,Right,2024-07-01,2027-06-01,1200000
+"Lazar Jovanović,VfB Stuttgart,""RM LM RW"",64,18,76,52,54,65,46,48,184,Left,2025-07-08,2029-06-01,1800000"
+"Noah Darvich,VfB Stuttgart,""CAM CM RM"",63,18,74,54,55,69,52,53,184,Left,2025-07-01,2029-06-01,1400000"
+Florian Hellstern,VfB Stuttgart,GK,63,17,19,15,21,26,30,48,186,Right,2025-07-01,2027-06-01,1200000
+"Mirza Ćatović,VfB Stuttgart,""CDM CM"",62,18,58,44,51,58,64,74,187,Right,2025-07-01,2028-06-01,1100000"
+"Yanik Spalt,VfB Stuttgart,""CDM CM"",58,17,66,45,51,55,50,46,176,Left,2026-01-22,2028-06-01,575000"

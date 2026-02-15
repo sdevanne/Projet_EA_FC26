@@ -1,0 +1,38 @@
+﻿player_name,team_name,positions,overall,age,pac,sho,pas,dri,def,phy,height_cm,preferred_foot,contract_start,contract_end,market_value
+Kamil Grabara,VfL Wolfsburg,GK,82,26,42,24,36,46,54,71,195,Right,2024-07-01,2028-06-01,30500000
+"Mohamed Amoura,VfL Wolfsburg,""ST LW LM CAM"",80,25,91,80,68,87,69,45,170,Right,2025-07-01,2029-06-01,35000000"
+"Maximilian Arnold,VfL Wolfsburg,""CDM CM"",79,31,64,78,80,75,75,74,184,Left,2011-10-10,2028-06-01,14500000"
+"Lovro Majer,VfL Wolfsburg,""CM CAM RM"",78,27,71,74,80,81,71,65,178,Left,2023-08-16,2028-06-01,17500000"
+"Patrick Wimmer,VfL Wolfsburg,""CAM LM CM ST"",77,24,84,66,68,79,72,73,182,Right,2022-07-01,2027-06-01,19500000"
+Denis Vavro,VfL Wolfsburg,CB,77,29,69,60,58,62,83,84,189,Right,2025-05-19,2027-06-01,10500000
+"Joakim Mæhle,VfL Wolfsburg,""LB RB LM"",77,28,75,58,65,73,77,74,185,Right,2023-08-12,2027-06-01,11500000"
+Konstantinos Koulierakis,VfL Wolfsburg,CB,76,21,70,47,53,64,80,78,185,Left,2024-08-30,2029-06-01,18500000
+"Jakub Kamiński,VfL Wolfsburg,""LM LW CAM"",76,23,85,63,66,75,62,54,179,Right,2022-07-01,2026-06-30,13500000"
+"Jonas Wind,VfL Wolfsburg,""ST CAM"",76,26,58,76,70,75,77,82,190,Right,2022-01-31,2026-06-01,10500000"
+Moritz Jenz,VfL Wolfsburg,CB,76,26,63,29,42,59,79,85,190,Right,2023-07-01,2027-06-01,10500000
+"Mattias Svanberg,VfL Wolfsburg,""CM CDM"",76,26,74,68,72,75,71,75,185,Right,2022-07-16,2027-06-01,10500000"
+"Christian Eriksen,VfL Wolfsburg,""CM CAM CDM"",76,33,49,77,83,74,46,49,182,Right,2025-09-10,2027-06-01,5500000"
+"Saël Kumbedi,VfL Wolfsburg,""RB RM"",76,20,80,46,63,76,66,50,175,Right,2025-12-22,2029-06-01,9500000"
+"Vinicius Souza,VfL Wolfsburg,""CDM CM"",75,26,65,56,61,67,81,84,187,Right,2025-07-05,2030-06-01,8000000"
+"Jesper Lindstrøm,VfL Wolfsburg,""RM LM RW"",75,25,82,66,72,75,63,51,182,Right,2023-08-29,2026-06-30,9000000"
+Marius Müller,VfL Wolfsburg,GK,75,31,32,18,23,35,51,75,192,Right,2024-07-01,2027-06-01,3500000
+"Aaron Zehnter,VfL Wolfsburg,""LM LB"",74,20,75,64,76,70,68,55,180,Left,2025-07-01,2030-06-01,7500000"
+"Yannick Gerhardt,VfL Wolfsburg,""CM CDM CAM"",74,31,65,67,69,72,73,76,184,Left,2016-07-01,2030-06-01,4100000"
+Kilian Fischer,VfL Wolfsburg,RB,73,24,84,40,58,67,74,69,182,Right,2022-07-01,2027-06-01,4500000
+"Kevin Paredes,VfL Wolfsburg,""LM LW LB"",73,22,82,57,60,77,50,34,175,Left,2022-01-28,2026-06-01,8000000"
+"Bence Dárdai,VfL Wolfsburg,""CAM CM"",72,19,66,61,67,74,59,57,189,Right,2024-07-01,2029-06-01,6000000"
+"Rogério,VfL Wolfsburg,""LB LM"",72,27,73,57,65,72,59,50,178,Left,2023-08-05,2027-06-01,2700000"
+"Adam Daghim,VfL Wolfsburg,""RM ST RW"",73,19,87,64,60,71,71,68,186,Left,2023-08-30,2026-06-30,4800000"
+Pavao Pervan,VfL Wolfsburg,GK,71,37,30,17,22,33,40,54,194,Right,2018-07-01,2026-06-01,250000
+Jonas Adjetey,VfL Wolfsburg,CB,70,21,71,25,40,62,71,73,188,Right,2026-02-02,2030-06-01,4300000
+Dženan Pejčinović,VfL Wolfsburg,ST,70,20,67,68,56,67,63,65,188,Left,2022-07-14,2029-06-01,4200000
+"Jeanuël Belocian,VfL Wolfsburg,""CB LB"",70,20,67,44,61,66,68,72,182,Left,2024-07-01,2026-06-30,4300000"
+"Jenson Seelt,VfL Wolfsburg,""CB RB RM"",68,22,65,36,44,51,71,79,195,Right,2023-07-01,2026-06-30,3000000"
+Kento Shiogai,VfL Wolfsburg,ST,68,20,85,66,57,66,60,58,180,Right,2026-01-20,2030-06-01,3500000
+Cleiton,VfL Wolfsburg,CB,66,22,60,36,37,51,68,75,194,Left,2026-01-01,2030-06-01,2300000
+"Bruno Katz,VfL Wolfsburg,""LM LW"",63,17,68,57,58,64,44,44,183,Right,2025-11-30,2027-06-01,1400000"
+"Jan Bürger,VfL Wolfsburg,""RB RM"",62,18,67,47,49,61,59,55,180,Right,2025-11-07,2026-06-01,1000000"
+"Pharell Hensel,VfL Wolfsburg,""CM CDM CAM"",61,18,63,52,63,61,52,55,181,Right,2025-11-07,2029-06-01,900000"
+"Trevor Benedict,VfL Wolfsburg,""LM LW ST"",60,18,69,56,51,61,48,52,182,Right,2022-08-01,2028-06-01,675000"
+Jakub Zieliński,VfL Wolfsburg,GK,59,17,21,15,22,30,40,61,194,Right,2025-07-01,2028-06-01,650000
+Till Neininger,VfL Wolfsburg,CB,59,18,53,32,40,48,59,60,186,Right,2025-12-06,2026-06-01,625000

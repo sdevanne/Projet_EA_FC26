@@ -1,0 +1,36 @@
+﻿player_name,team_name,positions,overall,age,pac,sho,pas,dri,def,phy,height_cm,preferred_foot,contract_start,contract_end,market_value
+"Ayoze,Villarreal CF,""ST CAM"",82,31,84,82,76,82,73,60,178,Right,2024-08-13,2028-06-01,30500000"
+"Moleiro,Villarreal CF,""LM CAM LW"",81,21,88,69,76,81,70,65,172,Right,2025-07-01,2030-06-01,49000000"
+"Nicolas Pépé,Villarreal CF,""RM ST RW"",81,30,87,79,76,82,69,75,183,Left,2024-08-05,2028-06-01,29500000"
+"Gerard Moreno,Villarreal CF,""ST CAM"",81,33,77,82,75,78,74,73,180,Left,2018-07-02,2027-06-01,19500000"
+"Parejo,Villarreal CF,""CM CDM"",81,36,39,78,86,76,67,68,182,Right,2020-08-12,2026-06-01,9500000"
+"Thomas Partey,Villarreal CF,""CDM CM"",80,32,58,67,74,71,78,84,185,Right,2025-08-18,2026-06-01,16500000"
+"Carlos Romero,Villarreal CF,""LB LM CM"",79,23,81,67,73,76,76,68,180,Left,2024-07-09,2026-06-30,27500000"
+"Sergi Cardona,Villarreal CF,""LB LM"",79,25,84,57,72,76,77,71,185,Left,2024-07-18,2027-06-01,25500000"
+"Pape Gueye,Villarreal CF,""CM CDM"",79,26,71,68,69,75,80,81,189,Left,2024-07-11,2028-06-01,24000000"
+Juan Foyth,Villarreal CF,CB,79,27,68,49,66,71,78,79,187,Right,2021-07-01,2029-06-01,21000000
+"Santiago Mouriño,Villarreal CF,""RB CB"",78,23,80,38,57,70,83,82,186,Right,2025-08-01,2030-06-01,31500000"
+Luiz Júnior,Villarreal CF,GK,78,24,30,16,24,33,45,72,194,Left,2024-08-20,2030-06-01,20000000
+Georges Mikautadze,Villarreal CF,ST,78,24,82,80,72,80,76,73,176,Right,2025-09-02,2031-06-01,25500000
+"Santi Comesaña,Villarreal CF,""CM CDM"",78,28,59,69,68,71,75,74,188,Right,2023-07-01,2028-06-01,16500000"
+Renato Veiga,Villarreal CF,CB,77,21,76,64,72,71,83,82,190,Left,2025-08-22,2032-06-01,23500000
+Logan Costa,Villarreal CF,CB,77,24,60,37,53,66,78,79,190,Right,2024-08-22,2030-06-01,23000000
+Diego Conde,Villarreal CF,GK,76,26,43,19,25,42,46,62,188,Right,2024-07-11,2029-06-01,9000000
+"Pedraza,Villarreal CF,""LB LM"",76,29,78,70,70,72,73,72,184,Left,2014-07-01,2026-06-01,8000000"
+Rafa Marín,Villarreal CF,CB,75,23,70,34,54,65,76,75,191,Right,2024-07-10,2026-06-30,14000000
+"Terrats,Villarreal CF,""CM RM CDM"",75,24,60,67,73,72,69,68,181,Left,2023-07-01,2026-06-30,9500000"
+"Tajon Buchanan,Villarreal CF,""RM RB LM RW"",75,26,91,63,62,73,76,69,183,Right,2025-07-29,2030-06-01,7000000"
+"Alfon,Villarreal CF,""LM LW CAM"",75,26,77,71,68,77,69,63,172,Right,2025-07-01,2026-06-30,8000000"
+"Thiago Fernández,Villarreal CF,""LM LW"",74,21,84,67,68,78,58,49,175,Right,2026-01-02,2026-06-30,10000000"
+"Ilias Akhomach,Villarreal CF,""RM RW"",74,21,78,68,66,73,57,54,175,Left,2023-07-03,2026-06-30,11000000"
+Arnau Tenas,Villarreal CF,GK,74,24,51,18,34,49,41,38,185,Right,2025-08-27,2029-06-01,6500000
+"Alex Freeman,Villarreal CF,""RB CM"",73,20,83,63,67,70,75,77,188,Right,2026-01-29,2032-06-01,7500000"
+Willy Kambwala,Villarreal CF,CB,72,20,66,32,49,63,71,78,192,Right,2024-07-15,2029-06-01,5500000
+Tani Oluwaseyi,Villarreal CF,ST,70,25,85,68,50,66,69,69,188,Right,2025-09-01,2030-06-01,2600000
+Alex Forés,Villarreal CF,ST,70,24,70,72,52,69,62,62,179,Right,2024-07-01,2026-06-30,3800000
+"Pau Navarro,Villarreal CF,""RB CB CDM"",69,20,59,40,50,64,65,59,185,Right,2024-07-01,2030-06-01,3800000"
+"Pau Cabanes,Villarreal CF,""ST RM"",65,20,62,68,51,63,49,49,179,Right,2024-11-26,2028-06-01,2000000"
+Rubén Gómez,Villarreal CF,GK,63,23,29,14,23,34,35,46,185,Right,2024-10-25,2027-06-01,1100000
+"Jean Yves Valou,Villarreal CF,""CB LB"",62,19,63,33,46,55,65,73,188,Left,2024-07-01,2027-06-01,1100000"
+"Alassane Diatta,Villarreal CF,""CDM CM"",62,20,54,42,48,55,60,60,190,Left,2026-01-28,2030-06-01,1100000"
+"Carlos Macià,Villarreal CF,""CM CDM"",61,16,64,50,50,59,63,61,190,Right,2025-07-01,2029-06-01,950000"

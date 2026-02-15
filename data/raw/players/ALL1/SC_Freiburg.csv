@@ -1,0 +1,28 @@
+﻿player_name,team_name,positions,overall,age,pac,sho,pas,dri,def,phy,height_cm,preferred_foot,contract_start,contract_end,market_value
+Matthias Ginter,SC Freiburg,CB,82,31,55,59,63,67,74,83,190,Right,2022-07-01,2027-06-01,24500000
+"Vincenzo Grifo,SC Freiburg,""LM LW"",80,32,70,77,83,79,66,65,180,Right,2019-09-02,2029-06-01,20000000"
+Noah Atubolu,SC Freiburg,GK,78,23,56,18,24,35,52,79,190,Right,2021-07-01,2027-06-01,20000000
+Philipp Lienhart,SC Freiburg,CB,78,28,67,31,51,68,79,79,189,Right,2018-06-05,2028-06-01,14500000
+"Jan-Niklas Beste,SC Freiburg,""RM LM RW"",76,26,78,64,79,76,63,55,175,Left,2025-01-31,2029-06-01,9500000"
+"Maximilian Eggestein,SC Freiburg,""CDM CM"",76,28,60,62,65,72,78,76,181,Right,2021-08-18,2030-06-01,8000000"
+"Christian Günter,SC Freiburg,""LB LM"",76,32,80,57,70,70,82,82,184,Left,2012-07-01,2029-06-01,6000000"
+"Patrick Osterhage,SC Freiburg,""CDM CM"",75,25,78,56,61,70,76,71,186,Left,2024-07-01,2029-06-01,7500000"
+Lukas Kübler,SC Freiburg,RB,75,32,77,55,55,68,75,79,182,Right,2015-07-01,2029-06-01,4600000
+"Johan Manzambi,SC Freiburg,""CAM CDM CM ST"",74,19,78,64,60,76,69,68,183,Right,2024-07-01,2030-06-01,10500000"
+"Max Rosenfelder,SC Freiburg,""CB RB"",74,22,82,32,49,67,72,69,186,Right,2023-07-01,2029-06-01,10500000"
+"Philipp Treu,SC Freiburg,""LM RM RB LW"",74,24,81,45,62,77,67,54,172,Right,2025-07-01,2029-06-01,7000000"
+"Eren Dinkçi,SC Freiburg,""CAM RM CM"",74,23,85,71,68,74,62,59,188,Right,2024-07-01,2026-06-30,8000000"
+"Derry Scherhant,SC Freiburg,""LM ST LW"",73,22,85,66,60,72,66,66,185,Right,2025-06-01,2030-06-01,5500000"
+Igor Matanović,SC Freiburg,ST,73,22,67,68,50,63,73,84,194,Right,2025-07-09,2029-06-01,5500000
+"Yuito Suzuki,SC Freiburg,""CAM ST"",73,23,84,66,65,76,60,45,175,Right,2025-07-01,2029-06-01,5000000"
+"Lucas Höler,SC Freiburg,""ST CAM"",73,30,67,70,51,65,79,80,184,Right,2018-01-01,2028-06-01,3500000"
+"Jordy Makengo,SC Freiburg,""LB LM"",72,23,81,37,57,65,73,76,190,Left,2023-07-01,2029-06-01,3700000"
+Florian Müller,SC Freiburg,GK,72,27,43,19,23,39,47,67,190,Left,2023-07-01,2028-06-01,2400000
+Anthony Jung,SC Freiburg,CB,72,33,62,60,64,66,73,77,185,Left,2025-07-01,2029-06-01,1300000
+"Nicolas Höfler,SC Freiburg,""CDM CM"",71,35,51,48,59,68,67,70,181,Right,2010-07-01,2026-06-01,625000"
+"Daniel-Kofi Kyereh,SC Freiburg,""CAM ST CM"",70,29,66,66,63,72,48,54,179,Right,2022-07-01,2028-06-01,1800000"
+"Cyriaque Irié,SC Freiburg,""RM ST RW"",70,20,87,60,61,66,70,78,185,Left,2025-06-01,2028-06-01,4500000"
+Jannik Huth,SC Freiburg,GK,69,31,60,24,29,41,47,63,185,Right,2024-07-01,2030-06-01,875000
+"Maximilian Philipp,SC Freiburg,""ST CAM"",69,31,64,74,66,73,55,64,183,Right,2024-02-09,2030-06-01,1400000"
+"Karl Steinmann,SC Freiburg,""RB LB LM"",63,19,64,41,53,59,62,66,186,Right,2025-12-20,2026-06-01,1200000"
+"Bruno Ogbus,SC Freiburg,""CB RB"",61,19,65,30,42,54,58,70,185,Right,2024-07-01,2030-06-01,850000"

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit
+  bootstrap="tests/bootstrap.php"
+  colors="true"
+  failOnWarning="false"
+  failOnRisky="false"
+  cacheDirectory=".phpunit.cache"
+>
+  <testsuites>
+    <testsuite name="Projet FC26 Test Suite">
+      <directory>tests</directory>
+    </testsuite>
+  </testsuites>
+
+  <php>
+    <!-- Base dédiée aux tests -->
+    <env name="MONGO_URI" value="mongodb://127.0.0.1:27017"/>
+    <env name="DB_NAME" value="Projet_EA_FC26_test"/>
+    <env name="APP_ENV" value="test"/>
+  </php>
+</phpunit>

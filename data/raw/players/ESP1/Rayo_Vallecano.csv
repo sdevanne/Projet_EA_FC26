@@ -1,0 +1,32 @@
+﻿player_name,team_name,positions,overall,age,pac,sho,pas,dri,def,phy,height_cm,preferred_foot,contract_start,contract_end,market_value
+"Isi,Rayo Vallecano,""CAM RM ST CM"",81,30,85,77,80,82,65,64,169,Left,2020-01-23,2028-06-01,29500000"
+"Álvaro García,Rayo Vallecano,""LM LW"",81,32,89,71,73,82,50,34,167,Left,2018-08-23,2028-06-01,24000000"
+"De Frutos,Rayo Vallecano,""RM ST RW"",80,28,83,75,72,80,70,68,173,Right,2023-08-18,2028-06-01,25000000"
+"Andrei Rațiu,Rayo Vallecano,""RB RM"",79,27,93,61,70,74,76,65,183,Right,2023-08-26,2030-06-01,22000000"
+Augusto Batalla,Rayo Vallecano,GK,79,29,43,24,31,40,50,72,186,Right,2025-03-22,2030-06-01,16000000
+"Pep Chavarría,Rayo Vallecano,""LB LM"",78,27,86,68,70,73,77,74,174,Left,2022-08-31,2030-06-01,17500000"
+"Pathé Ciss,Rayo Vallecano,""CDM CM CB"",78,31,63,53,56,66,87,88,186,Right,2021-07-28,2027-06-01,11500000"
+Florian Lejeune,Rayo Vallecano,CB,78,34,49,57,67,66,78,85,190,Right,2023-07-28,2027-06-01,5500000
+"Óscar Valentín,Rayo Vallecano,""CDM CM"",77,30,64,52,62,69,77,71,177,Right,2019-07-01,2027-06-01,10500000"
+Abdul Mumin,Rayo Vallecano,CB,77,27,76,50,57,68,78,76,188,Right,2022-09-01,2026-06-01,14000000
+Luiz Felipe,Rayo Vallecano,CB,76,28,73,33,53,63,75,80,187,Right,2025-07-07,2026-06-01,9000000
+"Unai López,Rayo Vallecano,""CM CDM"",76,29,68,68,77,79,71,63,170,Right,2021-08-31,2026-06-01,8500000"
+"Pedro Díaz,Rayo Vallecano,""CM CDM CAM"",75,27,66,73,76,73,73,71,180,Right,2024-08-06,2028-06-01,7500000"
+"Iván Balliu,Rayo Vallecano,""RB LB RM"",75,33,77,52,66,74,73,62,172,Right,2021-07-14,2027-06-01,3500000"
+"Ilias Akhomach,Rayo Vallecano,""RM RW"",74,21,78,68,66,73,57,54,175,Left,2023-07-03,2026-06-30,11000000"
+Alemão,Rayo Vallecano,ST,73,27,73,72,62,72,83,86,182,Right,2025-09-02,2030-06-01,4200000
+Dani Cárdenas,Rayo Vallecano,GK,73,28,44,16,26,40,39,52,186,Right,2023-08-18,2027-06-01,3300000
+"Nobel Mendy,Rayo Vallecano,""CB LB"",72,20,77,47,53,60,78,84,187,Left,2026-01-23,2030-06-01,6500000"
+Sergio Camello,Rayo Vallecano,ST,72,24,70,71,65,73,63,58,177,Right,2023-08-17,2027-06-01,4200000
+"Pacha Espino,Rayo Vallecano,""LB CM"",72,33,78,59,65,69,81,78,172,Left,2023-07-17,2026-06-01,1400000"
+"Gumbau,Rayo Vallecano,""CM CDM"",72,30,44,64,73,66,68,71,187,Left,2023-07-27,2026-06-30,2600000"
+"Fran Pérez,Rayo Vallecano,""RM LM RW"",71,22,75,67,67,68,56,55,175,Right,2025-08-18,2029-06-01,4500000"
+"Óscar Trejo,Rayo Vallecano,""CAM CM"",71,37,52,72,73,71,63,65,180,Right,2017-07-01,2026-06-01,725000"
+"Randy Nteka,Rayo Vallecano,""ST CAM"",70,27,70,70,61,69,84,88,189,Left,2021-07-28,2028-06-01,2000000"
+"Carlos Martín,Rayo Vallecano,""ST LM CAM"",69,23,74,68,60,68,64,69,181,Right,2021-10-31,2026-06-30,3700000"
+"Jozhua Vertrouwd,Rayo Vallecano,""CB LB LM"",67,20,76,49,57,64,73,70,188,Left,2025-08-12,2030-06-01,2500000"
+"Diego Méndez,Rayo Vallecano,""CDM CM"",64,21,61,44,46,58,62,64,182,Right,2025-08-01,2026-06-01,1500000"
+"Samu Becerra,Rayo Vallecano,""CM CDM"",60,19,69,48,57,60,54,48,165,Right,2025-07-01,2027-06-01,675000"
+"De las Sías,Rayo Vallecano,""CB RB"",59,19,55,41,37,51,66,65,180,Right,2024-07-01,2027-06-01,525000"
+Juanpe Gil,Rayo Vallecano,GK,58,24,29,15,19,27,33,49,185,Right,2025-07-25,2026-06-01,450000
+Adrián Molina,Rayo Vallecano,GK,54,19,20,13,19,32,35,49,185,Right,2024-07-01,2026-06-01,240000

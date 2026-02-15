@@ -1,0 +1,31 @@
+﻿player_name,team_name,positions,overall,age,pac,sho,pas,dri,def,phy,height_cm,preferred_foot,contract_start,contract_end,market_value
+"Pedri,FC Barcelona,""CM CDM CAM"",90,22,78,71,82,90,77,73,174,Right,2020-08-04,2030-06-01,195000000"
+"Lamine Yamal,FC Barcelona,""RM RW"",89,17,86,80,85,89,61,60,180,Left,2022-07-01,2031-06-01,173500000"
+"Raphinha,FC Barcelona,""LM CAM LW"",89,28,91,83,85,87,80,67,176,Left,2022-07-13,2028-06-01,122500000"
+"Frenkie de Jong,FC Barcelona,""CM CDM"",87,28,82,69,82,86,79,73,181,Right,2019-07-01,2029-06-01,94000000"
+Robert Lewandowski,FC Barcelona,ST,87,36,72,87,79,84,83,87,186,Right,2022-07-18,2026-06-01,32000000
+"Jules Koundé,FC Barcelona,""RB RM"",86,26,84,51,66,79,85,84,181,Right,2022-07-28,2030-06-01,86000000"
+Joan García,FC Barcelona,GK,85,24,46,18,33,47,47,59,193,Right,2025-07-01,2031-06-01,72000000
+Marc-André ter Stegen,FC Barcelona,GK,85,33,45,23,41,47,56,75,187,Right,2014-07-01,2026-06-30,20500000
+"Dani Olmo,FC Barcelona,""CAM CM ST"",84,27,75,78,79,85,59,56,179,Right,2024-07-01,2030-06-01,57500000"
+"Ferran Torres,FC Barcelona,""ST LW CAM"",84,25,84,83,76,83,77,76,184,Right,2022-01-01,2027-06-01,63500000"
+"João Cancelo,FC Barcelona,""RB LB RM"",84,31,83,71,82,83,75,65,182,Right,2024-08-27,2026-06-30,36000000"
+"Gavi,FC Barcelona,""CM CDM"",83,20,76,63,73,85,72,58,173,Right,2020-07-01,2030-06-01,60000000"
+"Balde,FC Barcelona,""LB LM"",83,21,91,48,68,77,71,69,175,Left,2021-01-01,2028-06-01,58000000"
+Wojciech Szczęsny,FC Barcelona,GK,83,35,48,21,34,47,55,65,195,Right,2024-10-02,2027-06-01,4800000
+Pau Cubarsí,FC Barcelona,CB,82,18,73,43,55,75,78,77,183,Right,2023-07-01,2029-06-01,47500000
+"Fermín,FC Barcelona,""CAM CM ST"",82,22,75,75,75,82,70,57,174,Right,2023-07-01,2031-06-01,55000000"
+Ronald Araujo,FC Barcelona,CB,82,26,79,50,58,63,83,87,188,Right,2018-08-29,2031-06-01,41500000
+"Eric García,FC Barcelona,""CB RB CDM"",82,24,79,55,68,75,82,79,182,Right,2021-07-01,2031-06-01,46500000"
+"Marcus Rashford,FC Barcelona,""LM ST LW"",81,27,88,82,78,78,70,71,188,Right,2015-11-21,2026-06-30,32500000"
+"Andreas Christensen,FC Barcelona,""CB CM CDM"",80,29,72,31,59,70,76,78,189,Right,2022-07-04,2026-06-01,23000000"
+"Marc Casadó,FC Barcelona,""CDM CM"",79,21,62,62,68,80,68,55,171,Right,2022-07-01,2028-06-01,39500000"
+Iñaki Peña,FC Barcelona,GK,77,26,36,17,32,41,38,54,184,Right,2018-07-01,2026-06-30,13500000
+"Gerard Martín,FC Barcelona,""LB CB LM"",76,23,77,55,70,68,75,77,186,Left,2023-07-19,2028-06-01,17000000"
+"Roony Bardghji,FC Barcelona,""RW RM"",74,19,74,69,66,78,57,55,173,Left,2025-07-14,2029-06-01,12000000"
+"Marc Bernal,FC Barcelona,""CDM CM"",74,18,68,54,67,73,66,69,193,Left,2023-07-01,2029-06-01,11000000"
+"Héctor Fort,FC Barcelona,""RB LB CM"",71,18,83,47,62,69,69,63,185,Right,2022-07-01,2026-06-30,4900000"
+"Toni Fernández,FC Barcelona,""RW RM"",64,16,74,58,54,66,49,51,174,Left,2025-07-01,2027-06-01,1700000"
+Diego Kochen,FC Barcelona,GK,61,19,21,15,19,32,38,62,189,Right,2024-01-31,2028-06-01,875000
+Jofre Torrents,FC Barcelona,LB,61,18,66,38,53,62,62,63,185,Left,2025-08-16,2028-06-01,950000
+"Guille Fernández,FC Barcelona,""CM CDM"",60,17,67,55,51,63,60,67,181,Right,2024-07-01,2027-06-01,775000"

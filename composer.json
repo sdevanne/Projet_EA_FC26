@@ -1,0 +1,28 @@
+{
+  "name": "projet/fc25",
+  "description": "Projet FC25 PHP MongoDB",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Projet\\Fc25\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Projet\\Fc25\\Tests\\": "tests/"
+    }
+  },
+  "authors": [
+    { "name": "Siméon" }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "mongodb/mongodb": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^11.0"
+  },
+  "scripts": {
+    "test": "phpunit"
+  }
+}
